@@ -149,7 +149,7 @@ export function AppSidebar() {
       {/* Top-right purple reflection */}
       <div
         aria-hidden="true"
-        className="pointer-events-none absolute -right-32 -top-32 h-96 w-96 rounded-full bg-purple-300/25 blur-3xl"
+        className="pointer-events-none absolute -right-32 -top-32 h-96 w-96 rounded-full bg-pink-300/15 blur-3xl"
       />
 
       {/* Header */}

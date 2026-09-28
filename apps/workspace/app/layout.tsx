@@ -43,7 +43,7 @@ export default function RootLayout({
                 <ThemeToggle />
               </header>
 
-              <main className="flex flex-1 flex-col gap-4 p-4 lg:p-6">
+              <main className="flex flex-1 flex-col gap-4 py-4 lg:py-6 ">
                 {children}
               </main>
             </SidebarInset>
